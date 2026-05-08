@@ -15,7 +15,7 @@ from telegram.ext import (
     MessageHandler, filters, ContextTypes
 )
 
-BOT_TOKEN = "8691460243:AAEfbdE1udGWF7ECdQCbZVSi935c6brflWo"
+BOT_TOKEN = "7978420257:AAH8JXSTcc3o5rAx47ijVgTMlsOokaJKt4o"
 ADMIN_CHAT_ID = 2013977358
 ORDERS_CHANNEL = "@perecrlad"
 
