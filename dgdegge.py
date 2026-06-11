@@ -17,7 +17,7 @@ from telegram.ext import (
 
 BOT_TOKEN = ""
 ADMIN_CHAT_ID = 2013977358
-ORDERS_CHANNEL = "@perecrlad"
+ORDERS_CHANNEL = ""
 
 USERS_FILE = os.path.join(tempfile.gettempdir(), "telegram_bot_users.json")
 
